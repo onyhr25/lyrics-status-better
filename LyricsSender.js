@@ -516,8 +516,8 @@ let settings = {
         label: true,
         advanced: {
             enabled: false,
-            customEmoji: "🎶",
-            customStatus: "[{timestamp}] Song lyrics - {lyrics}"
+            customEmoji: ":cry~1:",
+            customStatus: "{lyrics_upper}"
         }
     },
     timings: {
